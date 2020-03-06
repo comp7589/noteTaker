@@ -13,7 +13,7 @@ app.use("/api", apiRoutes); //if localhost/api navigate to api routes
 app.use("/", htmlRoutes); // if localhost navigates to htmlroutes
 
 // Start the server on the port
-app.listen(PORT, () => console.log(`Listening on PORT: ${PORT}`));
+app.listen(PORT, () => console.log(`Listening on http://localhost:${PORT}`));
 
 
 
