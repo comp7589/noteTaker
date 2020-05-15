@@ -34,7 +34,7 @@ class Store {
         const { title, text } = note;
 
         if (!title || !text) {
-            throw new Error("Note 'title' & 'text' cannto be blank!");
+            throw new Error("Note 'title' & 'text' cannot be blank!");
         }
 
         const newNote = { title, text, id: ++this.lastId };
