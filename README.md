@@ -1,7 +1,9 @@
 # UNIT 11: Express - Homework#11: noteTaker
 
-## Installation
-
+## Fire Up Application
+ ```sh
+$ node server.js
+```
 ## Usage
 Application for users that need to keep track of a lot of information, it's easy to be unable to recall something important. Being able to take persistent notes allows users to have written information available when needed.
 
