@@ -7,7 +7,9 @@ Application for users that need to keep track of a lot of information, it's easy
 
 I, Ryan W. Compton, am the sole collaborator on this assignment.
 
-## Third Party Assets
+## Link to working app via Heroku
+[Note Taker](https://hidden-plains-94168.herokuapp.com/)
+
 
 ## License 
 
